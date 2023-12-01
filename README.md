@@ -6,6 +6,7 @@
 # Student Mental Health Prediction
 
 
+
 ## Overview
 
 This project focuses on predicting student mental health, specifically determining the presence or absence of depression. The workflow includes preprocessing data, training machine learning models, tracking performance with MLflow, saving the best model in ONNX format, and creating REST APIs with FastAPI and Flask. Additionally, both the machine learning model and the application are packaged as Docker containers for deployment flexibility.
