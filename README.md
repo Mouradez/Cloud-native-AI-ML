@@ -38,35 +38,35 @@ The dataset used in this project contains information relevant to student mental
 
 Train five machine learning models using various algorithms.
 
-### Tracking Model Performance, Versions, and Parameters
+- Tracking Model Performance, Versions, and Parameters
 
 Use MLflow to track model performance metrics, versions, and parameters.
 
-### Saving Best Model in ONNX Format
+- Saving Best Model in ONNX Format
 
 Save the best-performing model in the ONNX format for interoperability.
 
-### Serializing Preprocessing Transformations
+- Serializing Preprocessing Transformations
 
 Serialize and save preprocessing transformations using the transformers API in pickle format.
 
 ## Folder: FastAPI
 
-### Creating a REST API with FastAPI
+- Creating a REST API with FastAPI
 
 Use FastAPI to create a REST API for serving machine learning models.
 
-### Packaging Model as a Docker Container
+- Packaging Model as a Docker Container
 
 Package the machine learning model as a Docker container for easy deployment and scalability.
 
 ## Folder: Flask
 
-### Creating a Dedicated Application with Flask
+- Creating a Dedicated Application with Flask
 
 Develop a dedicated application using Flask to consume the machine learning API.
 
-### Packaging Application as a Docker Container
+- Packaging Application as a Docker Container
 
 Package the Flask application as a Docker container for streamlined deployment.
 
