@@ -64,5 +64,9 @@ The dataset used in this project contains information relevant to student mental
 
 - Develop a dedicated application using Flask to consume the machine learning API.
 
+<img width="960" alt="image" src="https://github.com/Mouradez/Cloud-native-AI-ML/assets/75739113/1b83c690-2e7f-4934-9791-d00c766a9ed3">
+
 - Package the Flask application as a Docker container for streamlined deployment.
+
+  ![Flask](/Assignment-QFM/Flask/docker1.png)
 
