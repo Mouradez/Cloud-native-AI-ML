@@ -40,7 +40,9 @@ The dataset used in this project contains information relevant to student mental
 - Train five machine learning models using various algorithms
 
 - Tracking Model Performance, Versions, and Parameters
+  
 ![MLflow](/Assignment-QFM/MLflow/mlflow.png)
+
 - Saving Best Model in ONNX Format
 
 - Serialize and save preprocessing transformations using in pickle format.
@@ -49,7 +51,12 @@ The dataset used in this project contains information relevant to student mental
 
 - Use FastAPI to create a REST API for serving machine learning models.
 
+![FastAPI](/Assignment-QFM/FastAPI/fastapi1.png)
+![FastAPI](/Assignment-QFM/FastAPI/fastapi2.png)
+
 - Packaging Model as a Docker Container
+
+![FastAPI](/Assignment-QFM/FastAPI/docker1.png)
 
 - Package the machine learning model as a Docker container for easy deployment and scalability.
 
