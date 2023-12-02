@@ -39,8 +39,8 @@ The dataset used in this project contains information relevant to student mental
 
 - Train five machine learning models using various algorithms
 
-- Tracking Model Performance, Versions, and Parameters 
-
+- Tracking Model Performance, Versions, and Parameters
+![MLflow](/Assignment-QFM/MLflow/mlflow.png)
 - Saving Best Model in ONNX Format
 
 - Serialize and save preprocessing transformations using in pickle format.
