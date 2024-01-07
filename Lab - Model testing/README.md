@@ -11,8 +11,9 @@ We will use a QA (Question answering) model and serve it using FastAPI and we'll
 
 ![Lab - Model testing](/Screens/FastAPI_QA.png)
 
-![FastAPI](Lab - Model testing/Screens/FastAPI_QA_Response.png)
-![FastAPI](Lab - Model testing/Screens/FastAPI_QA_postman.png)
+![Lab - Model testing](/Screens/FastAPI_QA_Response.png)
+
+![Lab - Model testing](/Screens/FastAPI_QA_postman.png)
 
 ## Part 2: Containerizing the API using Docker
 To save time in production and facilitate the deployment process, it is essential to use Docker.
