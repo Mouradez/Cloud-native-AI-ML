@@ -5,7 +5,7 @@ The model is pre-trained on the SQUAD dataset (Stanford Question Answering Datas
 
 
 
-## Part 1:  Serve an NLP model (transformer) using FastAPI
+## Part 1:  Serve an NLP model (transformer) using FastAPI 
 
 We will use a QA (Question answering) model and serve it using FastAPI and we'll try a tool to query our API using curl requests (postman).
 
