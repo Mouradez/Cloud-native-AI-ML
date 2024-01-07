@@ -18,7 +18,7 @@ We will use a QA (Question answering) model and serve it using FastAPI and we'll
 ## Part 2: Containerizing the API using Docker
 To save time in production and facilitate the deployment process, it is essential to use Docker.
 
-![FastAPI](Screens/FastAPI_Docker.png)
+![Lab - Model testing](Screens/FastAPI_Docker.png)
 
 ## Part 3: Serving a Transformer Model using TFX
 TFX provides a faster and more efficient way to serve deep learning models. But it has some 
@@ -31,6 +31,6 @@ We will use it to test the loading of the three methods seen previously:
 - Using Dockerized fastAPI and 
 - By serving the model with TFX using fastAP
 
-![FastAPI](Lab - Model testing/Screens/locust_fastapi_QA.png)
-![FastAPI](Lab - Model testing/Screens/results_locust.png)
+![Lab - Model testing](Screens/locust_fastapi_QA.png)
+![Lab - Model testing](Screens/results_locust.png)
 
